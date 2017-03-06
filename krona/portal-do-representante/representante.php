@@ -13,4 +13,6 @@ Tributos Federais: 4% ­- R$ '.$tributos_ferederais.'
 Tributos Municipais: 2%  -­ R$ '.$tributos_minicipais;
 
 echo json_encode($data);
+
+ewfwefew
 ?>
